@@ -1,0 +1,5 @@
+{
+  "type": "bash",
+  "program": "runscript.sh",
+  "args": [ "Main" ]
+}
